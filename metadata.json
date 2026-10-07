@@ -1,0 +1,6 @@
+{
+  "name": "Terminus",
+  "description": "Advanced system access console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

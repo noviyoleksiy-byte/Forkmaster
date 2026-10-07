@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bg" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#3a5e83"/>
+<stop offset="100%" stop-color="#274566"/>
+</linearGradient>
+<linearGradient id="f1" x1="81" y1="256" x2="431" y2="288" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#bdd9ef"/>
+<stop offset="100%" stop-color="#b3bcc0"/>
+</linearGradient>
+<linearGradient id="f2" x1="81" y1="268" x2="431" y2="224" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#d9ecf8"/>
+<stop offset="100%" stop-color="#f8feed"/>
+</linearGradient>
+<linearGradient id="f3" x1="81" y1="268" x2="105" y2="248" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#7c9bbe"/>
+<stop offset="100%" stop-color="#788b9b"/>
+</linearGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<g transform="translate(0, 12)">
+<g transform="translate(256, 256) rotate(-40) scale(1.02, 1.20) translate(-256, -256)">
+<path d="M81 256L431 256L341 263L341 281L431 288L341 295L341 296L301 268L81 268Z" fill="url(#f1)"/>
+<path d="M81 244L301 244L341 216L341 217L431 224L341 231L341 249L431 256L81 256Z" fill="url(#f2)"/>
+<path d="M81 244L81 268L105 256Z" fill="url(#f3)"/>
+</g>
+</g>
+</svg>
